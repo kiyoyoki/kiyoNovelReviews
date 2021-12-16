@@ -1,4 +1,7 @@
 # 推薦図書
+データサイエンス分野の推薦図書に関しては、以下も参照(更新が止まっているかも)
+https://www.jdla.org/recommendedbook/
+http://www.datascientist.or.jp/dssjournal/link/books/
 
 ## 最適化
 - これなら分かる最適化数学
